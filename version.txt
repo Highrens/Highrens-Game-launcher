@@ -1,1 +1,1 @@
-0.0.3 DiceDungeon
+0.0.4 DiceDungeon
